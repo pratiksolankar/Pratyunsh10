@@ -7,6 +7,8 @@ public class Siiiyaaaaaaa {
 
 		System.out.println("kajuuuuu");
 		System.out.println("katli");
+			System.out.println("Golu");
+			System.out.println("Shlok");
 		
 	}
 
